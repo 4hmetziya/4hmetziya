@@ -1,6 +1,6 @@
 # Selam, Ben Ahmet Ziya OĞUZ 👋
 
-🚀 **RTEÜ Bilgisayar Mühendisliği 1. Sınıf Öğrencisiyim.**
+🚀 **RTEÜ Bilgisayar Mühendisliği 2. Sınıf Öğrencisiyim.**
 
 ### 💻 Nelerle İlgileniyorum?
 * **Diller:** C , Python, Bash Scripting.
